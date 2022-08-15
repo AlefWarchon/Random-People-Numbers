@@ -46,7 +46,7 @@ continue to update it as soon as possible and as I learn more.
 
 <div>
 <h2>Page Preview :mag:</h2>
-<h3>Link preview: <a href="https://alefwarchon.github.io/Random-People&Numbers/">Random People&Numbers<a/></h3>
+<h3>Link preview: <a href="https://alefwarchon.github.io/Random-People-Numbers//">Random People&Numbers<a/></h3>
 </div>
 
 
